@@ -1,4 +1,4 @@
-# agentic_ea_v0
+# veds_v0
 
 
 You need to set up your secrets. 
